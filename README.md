@@ -1,2 +1,2 @@
-# calculate-the-area-of-triangle
+# Calculate-the-area-of-triangle
  
